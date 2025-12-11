@@ -1,0 +1,3 @@
+How many elements are there between [135, 246] (inclusive of them) ?
+
+Answer: 246 - 135 + 1 = 112
