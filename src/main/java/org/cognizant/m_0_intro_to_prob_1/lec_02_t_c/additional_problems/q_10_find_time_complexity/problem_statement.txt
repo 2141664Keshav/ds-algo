@@ -1,0 +1,10 @@
+What will be the time complexity of the above function where n is a positive integer?
+
+public void function (int n) {
+    while (n > 0) {
+        n++;
+        n -= 2;
+    }
+}
+
+Answer: O(N), as overall N keeps on decreasing by 1 each time

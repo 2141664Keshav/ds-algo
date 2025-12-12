@@ -1,0 +1,8 @@
+Find the Time Complexity of the following function solve :
+
+for (int i = 0; i < Math.pow(2, N); i++) {
+    int j = i;
+    while (j > 0) {
+        j -= 1;
+    }
+}

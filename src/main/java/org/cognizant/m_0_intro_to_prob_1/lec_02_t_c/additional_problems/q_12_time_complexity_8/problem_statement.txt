@@ -1,0 +1,13 @@
+What is the time complexity of the following code snippet?
+
+int sum = 0;
+for (int i = 0; j <= N; j++) {
+    for (int j = i; j <= N && j > i; j++) {
+        sum += i;
+    }
+}
+
+Answer: O(N)
+
+The inner loop will never as j starts from i, and the inequality for j to be greater than i prevents
+the inner loop from ever running
