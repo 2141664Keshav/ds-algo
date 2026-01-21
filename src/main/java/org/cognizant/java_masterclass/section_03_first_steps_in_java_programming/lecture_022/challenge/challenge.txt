@@ -1,0 +1,9 @@
+Convert the given number of pounds into kilograms -
+
+1. Create a variable with the appropriate type, to store the number of pounds that
+   we want to store into kilograms
+2. Calculate kilograms, using the variable above, and store the result in a second
+   appropriately typed variable.
+3. Print the result
+
+Conversion formula: 1 pound = 0.45359237 of a kilogram
